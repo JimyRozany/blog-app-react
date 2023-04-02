@@ -1,0 +1,36 @@
+.blog_wrap{
+    width: 700px;
+    margin: 0 auto;
+}
+.blog_goBack{
+    text-decoration: none;
+    font-size: 0.8rem;
+    color: #a9a9a9;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    display: block;
+
+}
+.blog_goBack_arrow{
+    color: #000;
+}
+.blog_wrap header{ 
+    text-align: center;
+}
+.blog_date{
+    font-size: 0.8rem;
+    color: #a9a9a9;
+    font-weight: 500;
+}
+.blog_wrap img{
+    width: 100%; 
+}
+.blog_category{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+}
+.blog_desc{
+    padding: 1rem;
+    margin-top: 1.5rem;
+}
